@@ -8,6 +8,7 @@ https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone
 
 Add in manifest.json
 ```
+"be.eloistree.roomscanopenbrushbedroom": "https://github.com/EloiStree/2024_07_09_RoomScanWithOpenBrush.git",
 "be.eloistree.rootsofknowledgedronecar":"https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone.git",
 ```
 
