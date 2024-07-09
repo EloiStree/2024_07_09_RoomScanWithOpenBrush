@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.roomscanopenbrushbedroom",                              
+  "displayName": "Bedroom of Eloi in Open Brush",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Scan with open brusn of the bedroom of Eloi",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
